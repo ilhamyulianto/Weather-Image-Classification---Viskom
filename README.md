@@ -1,1 +1,3 @@
-# Weather-Image-Classification---Viskom
+# Weather-Image-Classification--
+Computer Vision - Informatics.
+
